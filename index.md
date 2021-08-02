@@ -215,4 +215,8 @@ We asked students on the 2019–2020 HDA course what advice they would give thei
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
 
-
+<style>
+.footer {
+  display: none;
+}
+</style>
