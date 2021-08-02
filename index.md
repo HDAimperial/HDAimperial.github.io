@@ -166,6 +166,12 @@ Once you have run all these lines of code, please make sure that all the package
 - **Epidemiology: Beyond the Basics.** Ward H, Toledano M, Shaddick G, Davies B, Elliott P (2012) . Oxford University Press, Oxford UK. (Amazon price £26).
 - **Essential epidemiology: an introduction for students and health professionals.** Webb, P., Bain, C. and Page, A., 2016. . Cambridge University Press. [https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316](https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316)
 
+#### Biology for OMICs cheat sheet
+
+Some of the former students and teaching staff on the course have put together a nice [cheat sheet](Biology for OMICs cheat sheet.docx) with some of the concepts you will need to pickup throughout the course. You will review these in Molecular Epidemiology or in our optional Molecular Biology classes but this is a great starting point.
+
+
+
 ### Statistics
 
 - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
