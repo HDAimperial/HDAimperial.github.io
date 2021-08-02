@@ -43,7 +43,7 @@ A really thorough guide to using R for statistics
 
 A great curated list of resources for R programming
 
-**[R for Data Science](https://r4ds.had.co.nz/index.html)
+**[R for Data Science](https://r4ds.had.co.nz/index.html)**
 
 An excellent resource that contains beginner to more advanced material on using R for Data Science.
 
