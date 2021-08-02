@@ -43,6 +43,10 @@ A really thorough guide to using R for statistics
 
 A great curated list of resources for R programming
 
+**[R for Data Science](https://r4ds.had.co.nz/index.html)
+
+An excellent resource that contains beginner to more advanced material on using R for Data Science.
+
 ---
 
 ### Statistics
@@ -84,13 +88,13 @@ You will be extensively using R throughout the year, a widely used programming l
 
 ### Installing R
 
-First download and install R (version 4.0.2) from the CRAN.
+First download and install R (version 4.1.0) from the CRAN.
 
 **[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
 
 For Mac users
 
-**[Download R-4.0.2 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
+**[Download R-4.1.0 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
 
 For Windows users
 
@@ -106,7 +110,7 @@ R Studio is an integrated development environment for R. You can download the Op
 
 ### Install required packages in R
 
-There are two main repositories of R packages (sets of built-in R functions): the CRAN (Comprehensive R Archive Network) and Bioconductor. Once both R and R Studio are installed, you can open R Studio and install the required packages by running the following code:
+There are two main repositories of R packages (sets of built-in R functions): the CRAN (Comprehensive R Archive Network) and Bioconductor. Once both R and R Studio are installed, you can open RStudio and install the required packages by running the following code:
 
     ```r
     ### First we create a function that checks if you have the package installed 
