@@ -192,7 +192,7 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 ## Advice from previous HDA students <a name="student_advice"></a>
 
-We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
+We asked former students of the HDA course what advice they would give their past selves before starting the course. Their responses are below.
 
 ### Before starting the course
 
@@ -215,8 +215,6 @@ We asked students on the 2019–2020 HDA course what advice they would give thei
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
 
-<style>
-.footer {
-  display: none;
-}
-</style>
+#### Acknowlegdements
+
+We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the MSc Health Data Analytics and Machine Learning teaching team.  
