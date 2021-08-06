@@ -217,4 +217,4 @@ We asked former students of the HDA course what advice they would give their pas
 
 #### Acknowlegdements
 
-We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the MSc Health Data Analytics and Machine Learning teaching team.  
+We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the MSc Health Data Analytics and Machine Learning teaching team. For any questions regarding this page, please contact sphteaching2@imperial.ac.uk.
