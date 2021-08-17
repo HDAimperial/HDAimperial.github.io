@@ -8,7 +8,7 @@ title: Imperial HDA Course Preparation
 ## Table of Contents
 1. [General advice](#general_advice)
 2. [How to spend your preparation time](#prep_time)
-3. [Setting up your computer](#cpu_setup-example)
+3. [Setting up your computer](#cpu_setup)
 4. [Reading list](#reading_list)
 5. [Advice from previous HDA students](#student_advice)
 
@@ -21,11 +21,53 @@ With that said, you have the opportunity to lower the gradient of your learning 
 
 ## Choosing how to spend your preparation time <a name="prep_time"></a>
 
+### Statistics
+
+While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, an understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
+
+For a revision of statistical concepts we highly recommend you begin your preparation by following the first few weeks of the [Imperial Introduction to Statistics for Public Health course](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health). This is particularly useful if you have not done any  basic maths or statistics in some time. 
+
+If you still have time (after the coding prep and computer set-up in the sections further below), here are some other useful statistics and linear algebra resources.
+
+**Coursera courses**
+
+   * [Statistics with R](https://www.coursera.org/specializations/statistics)
+   * [Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
+   * [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+    
+**Youtube Channels**
+
+   * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+   * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+    
+**Khan Academy**
+
+   * [Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+
 ### Learning to code
 
 Everything we do on the HDA course is underpinned by an ability to code. As with everything else, you will be well trained in coding throughout the course, and we do not assume or require any prior experience. However, in the very early stages of learning to code it can take a long time to solve simple problems, so you can certainly make things easier on yourself by getting through this very early stage before the course, so you're not doing the frustrating slow bit at the same time as studying epidemiology, statistics, etc.
 
-The HDA course primarily uses R, and there are numerous free or cheap resources online for getting started. Here are a selection of the best:
+The HDA course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
+
+Once you have set up R, the course team highly recommends you complete the below courses on DataCamp, before induction week. To access the DataCamp courses, you need to use your Imperial email account.
+
+* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+* [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+* [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
+* [Introduction to Importing Data in R](https://www.datacamp.com/courses/introduction-to-importing-data-in-r)
+
+If you are already familiar with R or you are a beginner and have completed the above, here are some more advanced courses from DataCamp you might want to complete:
+
+* [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
+* [Data Manipulation with dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr)
+* [Joining Data with dplyr](https://www.datacamp.com/courses/joining-data-with-dplyr)
+* [Cleaning Data in R](https//www.datacamp.com/courses/data-cleaning-in-r)
+* [Introduction to Data Visualization with ggplot2](https://www.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2)
+
+#### Free R resources<a name="free_r_resources"></a>
+
+Please note the resources below are free but some may require payment if you want to obtain a certificate.
 
 **[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
 
@@ -47,44 +89,10 @@ A great curated list of resources for R programming
 
 An excellent resource that contains beginner to more advanced material on using R for Data Science.
 
----
-
-### Statistics
-
-While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, an understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
-
-Here are some useful stats and linear algebra resources:
-
-**[Statistics with R](https://www.coursera.org/specializations/statistics)**
-
-Kill two birds with one stone – this course teaches statistics as applied in R
-
-**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
-
-A more epi/biostats focus, but still useful
-
-**[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)**
-
-This course provides a thorough grounding in linear algebra for ML
-
-**[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
-
-Great youtube channel with stats/ML instructional videos
-
-**[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)**
-
-Another great statistics youtube channel
-
-**[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
-
-For starting from the basics, Khan Academy has excellent tutorials
-
 
 ## Computer set-up <a name="cpu_setup"></a>
 
-We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
-
-You will be extensively using R throughout the year, a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
+You will be using R extensively throughout the year. R is a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)) and can be aided by the use of Rstudio (highly recommended), which is a graphical user interface for R. To use both of these in the course, you will need to install R, Rstudio and some R packages on your personal laptop. **Please follow the instructions below to complete the installation prior to course commencement**. We will have a dedicated session during induction week to help troubleshoot any problems you encounter with the installation. 
 
 ### Installing R
 
@@ -152,6 +160,8 @@ There are two main repositories of R packages (sets of built-in R functions): th
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 ![Screenshot of installed packages](Screenshot%202020-08-14%20at%2016.25.52.png)
 
+---
+
 ## Term 1 reading list <a name="reading_list"></a>
 
 ### Epidemiology
@@ -217,4 +227,4 @@ We asked former students of the HDA course what advice they would give their pas
 
 #### Acknowlegdements
 
-We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the MSc Health Data Analytics and Machine Learning teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
+We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
