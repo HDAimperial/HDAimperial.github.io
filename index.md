@@ -62,7 +62,7 @@ If you are already familiar with R or you are a beginner and have completed the 
 * [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
 * [Data Manipulation with dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr)
 * [Joining Data with dplyr](https://www.datacamp.com/courses/joining-data-with-dplyr)
-* [Cleaning Data in R](https//www.datacamp.com/courses/data-cleaning-in-r)
+* [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
 * [Introduction to Data Visualization with ggplot2](https://www.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2)
 
 #### Free R resources<a name="free_r_resources"></a>
