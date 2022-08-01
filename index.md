@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imperial HDA Course Preparation
+title: Imperial HDA Course Preparation testing
 ---
 
 # Course preparation resources
