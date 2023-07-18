@@ -11,6 +11,7 @@ title: Imperial HDA Course Preparation
 3. [Setting up your computer](#cpu_setup)
 4. [Reading list](#reading_list)
 5. [Advice from previous HDA students](#student_advice)
+6. [Frequently Asked Questions](#FAQs)
 
 ## General advice <a name="general_advice"></a>
 
@@ -224,6 +225,15 @@ We asked former students of the HDA course what advice they would give their pas
 - Revise the second term lectures such that there are some baby steps leading to the big equations
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
+
+## Frequently Asked Questions <a name="FAQ"></a>
+
+### 1. Do you have any suggestions for finding accommodation in London? 
+
+When searching for accommodation, take note of the campus where most of your classes will be delivered.  The MSc Health Data Analytics and Machine Learning course is based at the St Mary’s Campus in Paddington, West London. However, some of your classes will take place at the Charing Cross Campus in Hammersmith and South Kensington Campus and White City.
+
+For additional information on accommodation, visit the [Imperial College Accommodation website.](https://www.imperial.ac.uk/students/accommodation/)
+
 
 #### Acknowlegdements
 
