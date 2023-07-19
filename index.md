@@ -11,7 +11,7 @@ title: Imperial HDA Course Preparation
 3. [Setting up your computer](#cpu_setup)
 4. [Reading list](#reading_list)
 5. [Advice from previous HDA students](#student_advice)
-6. [Frequently Asked Questions](#FAQs)
+6. [Frequently Asked Questions](#FAQ)
 
 ## General advice <a name="general_advice"></a>
 
@@ -228,11 +228,75 @@ We asked former students of the HDA course what advice they would give their pas
 
 ## Frequently Asked Questions <a name="FAQ"></a>
 
-### 1. Do you have any suggestions for finding accommodation in London? 
+#### 1. Do you have any suggestions for finding accommodation in London? 
 
 When searching for accommodation, take note of the campus where most of your classes will be delivered.  The MSc Health Data Analytics and Machine Learning course is based at the St Mary’s Campus in Paddington, West London. However, some of your classes will take place at the Charing Cross Campus in Hammersmith and South Kensington Campus and White City.
 
 For additional information on accommodation, visit the [Imperial College Accommodation website.](https://www.imperial.ac.uk/students/accommodation/)
+
+#### 2. How much money will I need to live and study in London for a year?
+
+Please visit the Imperial [Living in London](https://www.imperial.ac.uk/study/living-in-london/) website for detailed information. 
+
+You will need to travel between campuses by bus, bicycle or underground train. Some journeys may be convenient on foot.
+
+#### 3. What is my tuition fee status? 
+
+Please visit the Imperial [Fees and Funding](https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/fee-status/) website for the most up to date information on tuition fees.
+
+#### 4. How and when should I send official documents (e.g. degree certificates)?  
+
+Official documents need to be sent to [Registry](https://www.imperial.ac.uk/admin-services/registry/) as soon as they are requested . Please check [My Imperial](https://www.imperial.ac.uk/admin-services/ict/self-service/admin-systems/my-imperial/) portal for instructions on how to send these. All outstanding conditions of your offer will have to be met before you can be offered an unconditional place and register as a student. Registering as a student is a pre-requisite for joining the course. For any questions regarding your documents and outstanding conditions, you can contact Registry directly
+
+#### 5. When does the course start?
+
+The MSc Health Data Analytics and Machine Learning Course starts on 2 October 2023. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
+
+For international students, Imperial College London organises some orientation events prior to the official start of the course. Please visit the [International Students Webpages](https://www.imperial.ac.uk/study/international-students/)  for further information. 
+
+#### 6. I’m an international student – what else should I consider or do before my arrival? 
+
+Please bear in mind that you may need a visa and vaccinations before your arrival.
+If you think you will not be able to obtain the visa in time for the start of the course please contact the Postgraduate Education Coordinator, Jo Tite: j.tite at imperial.ac.uk
+
+You may also want to familiarise yourself with information on how to open a bank account, and how to find a general medical practitioner (GP) after your arrival.  Options for GP services include the [Imperial College Health Centre](https://www.imperialcollegehealthcentre.co.uk/) in South Kensington or other services closer to your chosen accommodation.  
+
+Please also make active use of the [general information](https://www.imperial.ac.uk/study/international-students/) resources for international students at Imperial. 
+
+#### 7. Where does teaching take place? 
+
+Teaching takes place at St. Mary’s, Paddington, South Kensington, Charing Cross and White City Campuses, this will depend on modules taken.
+
+Please familiarise yourself with Imperial [campuses and maps](https://www.imperial.ac.uk/visit/campuses/)  
+
+Note: The name of the campus may not correspond to the name of the nearest Underground station. For example, the Charing Cross campus is not near the Charing Cross tube station (but is between Hammersmith and Baron’s Court stations), and the Hammersmith campus is not near Hammersmith station. 
+
+#### 8. What will my timetable look like?
+
+The MSc HDA-ML is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
+
+The provisional term dates (subject to change) are the following:
+
+***Term dates***
+
+|Autumn term:|					2 October 2023 - 15 December 2023|
+|Spring term:| 					8 January 2024 - 22 March 2024|
+|Summer term:|					1 May 2023 - 31 August 2023|
+
+|Exam period 1|					8 January 2024|
+|Exam period 2|					29 April 2024 – 10th May|
+
+
+***Closure dates***
+
+|Christmas/New year:|				22 December 2023 - 2 January 2024
+(College reopens on 2 January 2024)|
+|Easter Holiday:|				28 March 2024 - 3 April 2024
+						(College reopens on 3 April 2024)|
+|Early May Bank Holiday:|			6 May 2024|
+|Spring Bank Holiday:|				27 May 2024|
+|Summer Bank Holiday:|			26 August 2024|
+
 
 
 #### Acknowlegdements
