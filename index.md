@@ -282,20 +282,52 @@ The provisional term dates (subject to change) are the following:
 |Autumn term:|					2 October 2023 - 15 December 2023|
 |Spring term:| 					8 January 2024 - 22 March 2024|
 |Summer term:|					1 May 2023 - 31 August 2023|
-
 |Exam period 1|					8 January 2024|
 |Exam period 2|					29 April 2024 – 10th May|
 
 
 ***Closure dates***
 
-|Christmas/New year:|				22 December 2023 - 2 January 2024
-(College reopens on 2 January 2024)|
-|Easter Holiday:|				28 March 2024 - 3 April 2024
-						(College reopens on 3 April 2024)|
+|Christmas/New year:|				22 December 2023 - 2 January 2024 (College reopens on 2 January 2024)|
+|Easter Holiday:|				28 March 2024 - 3 April 2024 (College reopens on 3 April 2024)|
 |Early May Bank Holiday:|			6 May 2024|
 |Spring Bank Holiday:|				27 May 2024|
 |Summer Bank Holiday:|			26 August 2024|
+
+Please note that as a one year postgraduate course, assessment submissions may also take place outside the main term / exam periods.
+
+#### 9. Do you have a reading list of books to prepare for the course?
+
+We encourage you to do some general preparatory reading; we have attached a list of key texts. However, we do not anticipate prior learning in the subject matters, and the modules are taught starting from a basic level – so there will be adequate opportunities to learn the subjects even if you have never taken these modules beforehand. During term time, you would need to dedicate the allotted time for independent study as well as actively attend the live sessions and lectures.
+
+#### 10. Is there other preparation that I should do before starting the course?
+
+You will be required to use software to prepare written reports and prepare slides to accompany presentations. Our computer facilities (see below) offer you access to Microsoft Excel, PowerPoint and Word for this purpose. If you are not familiar with these programmes, you might want to familiarise yourself with them before the course commences. Other software such as R for statistical analysis will be taught on the Course (please see the accompanying R preparation guide). In addition, communication and teaching software such as padlet will be introduced in induction week.
+
+
+#### 11. Will I need to buy a calculator?
+
+You will need to do calculations for practicals and homework, where you can use laptops and/or mobile phones, so it may not be necessary to buy a calculator.
+
+If you decide to buy a calculator, we recommend that you use the CASIO fx-85GT Plus (£9-10). However, any standard scientific calculator should also be fine, so if you already have one, there is no need to buy another one. Importantly, you should check that the calculator has functions to calculate log (bases 2 and 10), exponentials, arithmetic means, standard deviations (S.D.), variance, geometric means, and square roots. We advise that you become familiar with these basic functions of your calculator before your arrival.  
+#### 12. What books do I need to buy for the course? 
+
+There is a core reading list of texts in addition to the books recommended for your pre-sessional reading. You will receive a handbook containing links to the core reading lists, when you arrive. These key texts will be available in the library (and mostly online), so choosing to buy any of the books will be up to you in case you want to retain a personal copy.  
+
+#### 13. Do I need to choose my own summer project topic? 
+
+The summer months in Term 3 are dedicated to full-time work on a research project. We provide students with a list of potential summer project topics at the start of Term 2 (in January), and advise that you start thinking about possible projects before this. Alternatively, you may wish to submit your own project ideas for approval. Your idea for a summer project, must be supported by a member of staff within the School of Public Health who is also willing to supervise the project. If you already have project ideas in mind, please discuss these with your personal tutor or the course organisers soon after your arrival. 
+
+#### 14. Who should I contact if I have any further questions? 
+
+If you have any further questions, please consult the following key contacts or resources:
+
+*	The [Registry](https://www.imperial.ac.uk/admin-services/registry/) team for queries on your application, outstanding conditions, fee status, and registration status.
+*	Postgraduate Education Co-ordinator, for queries on timetables, induction week or any other administrative issues.
+Jo Tite (email: j.tite at imperial.ac.uk), 
+*	MSc HDA-ML Course Coordinator for queries on the course content.
+*	Dr Sabrina Rodrigues s.andrade-rodrigues at imperial.ac.uk 
+*	Please familiarise yourself with information about postgraduate studies, and further information collated for new postgraduate students before you arrive. 
 
 
 
