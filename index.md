@@ -244,7 +244,7 @@ Official documents need to be sent to [Registry](https://www.imperial.ac.uk/admi
 
 #### 5. When does the course start?
 
-The MSc Health Data Analytics and Machine Learning Course starts on 2 October 2023. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
+The MSc Health Data Analytics and Machine Learning Course starts on 30th of September 2024. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
 
 For international students, Imperial College London organises some orientation events prior to the official start of the course. Please visit the [International Students Webpages](https://www.imperial.ac.uk/study/international-students/)  for further information. 
 
