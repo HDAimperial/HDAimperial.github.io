@@ -224,7 +224,7 @@ We asked former students of the HDA course what advice they would give their pas
 
 #### 1. Do you have any suggestions for finding accommodation in London? 
 
-When searching for accommodation, take note of the campus where most of your classes will be delivered.  The MSc Health Data Analytics and Machine Learning course is based at the St Mary’s Campus in Paddington, West London. However, some of your classes will take place at the Charing Cross Campus in Hammersmith and South Kensington Campus and White City.
+When searching for accommodation, take note of the campus where most of your classes will be delivered.  The MSc Health Data Analytics and Machine Learning course is based at the White City Campus in West London. However, some of your classes might take place at the Charing Cross Campus in Hammersmith and in the South Kensington Campus but the majority will be held at White City in the School of Public Health.
 
 For additional information on accommodation, visit the [Imperial College Accommodation website.](https://www.imperial.ac.uk/students/accommodation/)
 
@@ -259,7 +259,7 @@ Please also make active use of the [general information](https://www.imperial.ac
 
 #### 7. Where does teaching take place? 
 
-Teaching takes place at St. Mary’s, Paddington, South Kensington, Charing Cross and White City Campuses, this will depend on modules taken.
+Teaching takes place most at the White City Campus in the School of Public Health. Occasionally you might have some classes in South Kensington and in Hammersmith. This will depend on the modules taken.
 
 Please familiarise yourself with Imperial [campuses and maps](https://www.imperial.ac.uk/visit/campuses/)  
 
@@ -300,6 +300,7 @@ You will be required to use software to prepare written reports and prepare slid
 You will need to do calculations for practicals and homework, where you can use laptops and/or mobile phones, so it may not be necessary to buy a calculator.
 
 If you decide to buy a calculator, we recommend that you use the CASIO fx-85GT Plus (£9-10). However, any standard scientific calculator should also be fine, so if you already have one, there is no need to buy another one. Importantly, you should check that the calculator has functions to calculate log (bases 2 and 10), exponentials, arithmetic means, standard deviations (S.D.), variance, geometric means, and square roots. We advise that you become familiar with these basic functions of your calculator before your arrival.  
+
 #### 12. What books do I need to buy for the course? 
 
 There is a core reading list of texts in addition to the books recommended for your pre-sessional reading. You will receive a handbook containing links to the core reading lists, when you arrive. These key texts will be available in the library (and mostly online), so choosing to buy any of the books will be up to you in case you want to retain a personal copy.  
