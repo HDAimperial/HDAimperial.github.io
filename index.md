@@ -189,12 +189,6 @@ Some of the former students and teaching staff on the course have put together a
 Chapters 2–5 will support what you learn in the term 1 statistics module.
 - **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) (accessed 25 July 2017) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
 
-### Clinical Data Management
-
-- UK Biobank: Protocol for a large-scale prospective epidemiological resource. [http://www.ukbiobank.ac.uk/wp-content/uploads/2011/11/UK-Biobank-Protocol.pdf](http://www.ukbiobank.ac.uk/wp-content/uploads/2011/11/UK-Biobank-Protocol.pdf)
-- Surkis et al. Research data management, J Med Libr Assoc. 2015 Jul; 103(3): 154–156. [https://dx.doi.org/10.3163%2F1536-5050.103.3.011](https://dx.doi.org/10.3163%2F1536-5050.103.3.011)
-- Mcardle et al. Research data management 'Green Shoots' pilot programme, final reports, Imperial College London. [https://spiral.imperial.ac.uk:8443/handle/10044/1/28409](https://spiral.imperial.ac.uk:8443/handle/10044/1/28409)
-
 ### R programming
 
 - Hands-on programming with R, Garrett Grolemund. [https://rstudio-education.github.io/hopr/index.html](https://rstudio-education.github.io/hopr/index.html)
@@ -279,20 +273,16 @@ The provisional term dates (subject to change) are the following:
 
 ***Term dates***
 
-|Autumn term:|					2 October 2023 - 15 December 2023|
-|Spring term:| 					8 January 2024 - 22 March 2024|
-|Summer term:|					1 May 2023 - 31 August 2023|
-|Exam period 1|					8 January 2024|
-|Exam period 2|					29 April 2024 – 10th May|
+|Autumn term:|					30th September 2024 - 13 December 2024|
+|Spring term:| 					6 January 2025 - 21 March 2025|
+|Summer term:|					5 May 2025 - 31 August 2025|
+|Exam period 1|					6 January 2024|
+|Exam period 2|					TBC
 
 
 ***Closure dates***
 
-|Christmas/New year:|				22 December 2023 - 2 January 2024 (College reopens on 2 January 2024)|
-|Easter Holiday:|				28 March 2024 - 3 April 2024 (College reopens on 3 April 2024)|
-|Early May Bank Holiday:|			6 May 2024|
-|Spring Bank Holiday:|				27 May 2024|
-|Summer Bank Holiday:|			26 August 2024|
+See the Imperial College website [here](https://www.imperial.ac.uk/human-resources/leave/college-closures/).
 
 Please note that as a one year postgraduate course, assessment submissions may also take place outside the main term / exam periods.
 
