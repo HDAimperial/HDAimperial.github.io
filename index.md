@@ -11,7 +11,8 @@ title: Imperial HDA Course Preparation
 3. [Setting up your computer](#cpu_setup)
 4. [Reading list](#reading_list)
 5. [Advice from previous HDA students](#student_advice)
-6. [Frequently Asked Questions](#FAQ)
+6. [What will my timetable look like](#timetable)
+7. [Frequently Asked Questions](#FAQ)
 
 ## General advice <a name="general_advice"></a>
 
