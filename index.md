@@ -244,8 +244,9 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 ***Summer Project dates***
 
 |Start:|                             5 May 2025|
-|Background presentation:|          (Provisional)   Week of 2 June 2025|    
-|Final presentation date:|          (Provisional)   Week of 1 Septmber 2025|
+|Background presentation:|          (Provisional)   Week of 9 June 2025|
+|Research project report deadline: | 26 August 2025
+|Final presentation date:|          (Provisional)   Week of 8 Septmber 2025 (you will need to be in London)|
 
 ***Closure dates***
 
