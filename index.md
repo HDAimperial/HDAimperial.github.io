@@ -369,4 +369,4 @@ If you have any further questions, please consult the following key contacts or 
 
 #### Acknowlegdements
 
-We would like to thank [Dr Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
+We would like to thank [Dr Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sph.pgteachingoc@imperial.ac.uk>.
