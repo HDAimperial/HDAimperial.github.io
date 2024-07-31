@@ -15,9 +15,11 @@ title: Imperial HDA Course Preparation
 
 ## General advice <a name="general_advice"></a>
 
-The term 1 modules will give you a solid foundation in epidemiology, statistics, and handling healthcare data, with an introduction to molecular epidemiology and some basic machine learning modelling. Our students have a highly diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don't panic if you haven't, for example, studied epidemiology before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1, even from a standing start.
+The course you have just enrolled in is an intense course but don't worry, by the end of the course you will see how far you have come and how much you have learned. Our students often tell us that Term 1 is less intense than Term 2, but we believe that depends on your background. Our students have a highly diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don't panic if you haven't, for example, studied epidemiology before. Each module starts with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of the course, even from a standing start.
 
-With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
+Term 1 and Term 2 are constituted of the teaching modules and Term 3 is fully dedicated to the research project. The Term 1 modules will give you a solid foundation in epidemiology, statistics, and handling healthcare data, with an introduction to molecular epidemiology and a revision of course statistical and epidemiological concepts. You also get to brush-up or learn new programming skills with some of the Term 1 modules. Term 2 modules are more mathematically and computationally heavy but are all very practical and always aim to put things into the real-world context. Term 3 is where you get to put many of the things you have learned into practice on your individual research project. There are many group projects throughout the year where you apply many of the things you have learned but Term 3 is where you, as an individual, get to shine and really develop your research skills.
+
+It an intense but very rewarding year. And to help to lower the gradient of your learning curve we have put together some some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time. There are some FAQs at the end of the page which aim to answer some questions more related to practical and organisational things. There is also a list of contacts in case you have any additional questions.
 
 
 ## Choosing how to spend your preparation time <a name="prep_time"></a>
@@ -194,7 +196,6 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 - Hands-on programming with R, Garrett Grolemund. [https://rstudio-education.github.io/hopr/index.html](https://rstudio-education.github.io/hopr/index.html)
 
 
-
 ## Advice from previous HDA students <a name="student_advice"></a>
 
 We asked former students of the HDA course what advice they would give their past selves before starting the course. Their responses are below.
@@ -219,6 +220,40 @@ We asked former students of the HDA course what advice they would give their pas
 - Revise the second term lectures such that there are some baby steps leading to the big equations
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
+
+## What will my timetable look like?
+
+The MSc HDA-ML is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
+
+Below are provisional Imperial College terms dates for 2024-25. Please note that some assessments submission and examination dates fall outside regular College term dates.
+
+***College Term dates***
+
+|Autumn term:|					28 September 2024 - 13 December 2024|                                                          
+|Spring term:| 				  6 January 2025 - 21 March 2025|                                                          
+|Summer term:|					26 April 2025 - 27 June 2025|                                                              
+
+***Examination dates***
+
+|Exam period 1:|					6 - 10 January 2025|
+|Exam period 2:|					7 - 16 April 2025|
+
+***Summer Project dates***
+
+|Start:|                             5 May 2025|
+|Background presentation:|          (Provisional)   Week of 2 June 2025|    
+|Final presentation date:|          (Provisional)   Week of 1 Septmber 2025|
+
+***Closure dates***
+
+|Christmas/New year:|  				  23 December 2024 - 1 January 2025 (College reopens on 2 January 2025)|
+|Easter Holiday:|      				  17 April 2025 - 22 April 2025 (College reopens on 23 April 2025)|
+|Early May Bank Holiday:|			  5 May 2025|
+|Spring Bank Holiday:|				  26 May 2025|
+|Summer Bank Holiday:|			    25 August 2025|
+
+Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
+
 
 ## Frequently Asked Questions <a name="FAQ"></a>
 
@@ -265,51 +300,30 @@ Please familiarise yourself with Imperial [campuses and maps](https://www.imperi
 
 Note: The name of the campus may not correspond to the name of the nearest Underground station. For example, the Charing Cross campus is not near the Charing Cross tube station (but is between Hammersmith and Baron’s Court stations), and the Hammersmith campus is not near Hammersmith station. 
 
-#### 8. What will my timetable look like?
-
-The MSc HDA-ML is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
-
-The provisional term dates (subject to change) are the following:
-
-***Term dates***
-
-|Autumn term:|					30th September 2024 - 13 December 2024|
-|Spring term:| 					6 January 2025 - 21 March 2025|
-|Summer term:|					5 May 2025 - 31 August 2025|
-|Exam period 1|					6 January 2024|
-|Exam period 2|					TBC
-
-
-***Closure dates***
-
-See the Imperial College website [here](https://www.imperial.ac.uk/human-resources/leave/college-closures/).
-
-Please note that as a one year postgraduate course, assessment submissions may also take place outside the main term / exam periods.
-
-#### 9. Do you have a reading list of books to prepare for the course?
+#### 8. Do you have a reading list of books to prepare for the course?
 
 We encourage you to do some general preparatory reading; we have attached a list of key texts. However, we do not anticipate prior learning in the subject matters, and the modules are taught starting from a basic level – so there will be adequate opportunities to learn the subjects even if you have never taken these modules beforehand. During term time, you would need to dedicate the allotted time for independent study as well as actively attend the live sessions and lectures.
 
-#### 10. Is there other preparation that I should do before starting the course?
+#### 9. Is there other preparation that I should do before starting the course?
 
 You will be required to use software to prepare written reports and prepare slides to accompany presentations. Our computer facilities (see below) offer you access to Microsoft Excel, PowerPoint and Word for this purpose. If you are not familiar with these programmes, you might want to familiarise yourself with them before the course commences. Other software such as R for statistical analysis will be taught on the Course (please see the accompanying R preparation guide). In addition, communication and teaching software such as padlet will be introduced in induction week.
 
 
-#### 11. Will I need to buy a calculator?
+#### 10. Will I need to buy a calculator?
 
 You will need to do calculations for practicals and homework, where you can use laptops and/or mobile phones, so it may not be necessary to buy a calculator.
 
 If you decide to buy a calculator, we recommend that you use the CASIO fx-85GT Plus (£9-10). However, any standard scientific calculator should also be fine, so if you already have one, there is no need to buy another one. Importantly, you should check that the calculator has functions to calculate log (bases 2 and 10), exponentials, arithmetic means, standard deviations (S.D.), variance, geometric means, and square roots. We advise that you become familiar with these basic functions of your calculator before your arrival.  
 
-#### 12. What books do I need to buy for the course? 
+#### 11. What books do I need to buy for the course? 
 
 There is a core reading list of texts in addition to the books recommended for your pre-sessional reading. You will receive a handbook containing links to the core reading lists, when you arrive. These key texts will be available in the library (and mostly online), so choosing to buy any of the books will be up to you in case you want to retain a personal copy.  
 
-#### 13. Do I need to choose my own summer project topic? 
+#### 12. Do I need to choose my own summer project topic? 
 
 The summer months in Term 3 are dedicated to full-time work on a research project. We provide students with a list of potential summer project topics at the start of Term 2 (in January), and advise that you start thinking about possible projects before this. Alternatively, you may wish to submit your own project ideas for approval. Your idea for a summer project, must be supported by a member of staff within the School of Public Health who is also willing to supervise the project. If you already have project ideas in mind, please discuss these with your personal tutor or the course organisers soon after your arrival. 
 
-#### 14. Who should I contact if I have any further questions? 
+#### 13. Who should I contact if I have any further questions? 
 
 If you have any further questions, please consult the following key contacts or resources:
 
