@@ -44,7 +44,9 @@ With that said, you have the opportunity to lower the gradient of your learning 
 
 </details>
 
-<details><summary>Mandatory training</summary>
+
+<details>
+  <summary>Mandatory training</summary>
 
 ## Mandatory training
 You are invited to complete the courses below, which you can only enrol on once you are enrolled as an Imperial student. You are encouraged to complete them before teaching on the MSc Epidemiology commences in October.
@@ -77,10 +79,11 @@ By enrolling on AA
 You can develop key skills that will help with your Master’s study and in your future.
 You will access content that designed specifically for Imperial College Postgraduate students in your faculty.
 You will receive a certificate for each module you complete, but there are no formal assessments on the course.
+</details>
 
 <details>
+  <summary>Choosing how to spend your preparation time</summary>
 
-<details><summary>Choosing how to spend your preparation time</summary>
 
 ## Choosing how to spend your preparation time
 
