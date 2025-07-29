@@ -45,6 +45,7 @@ With that said, you have the opportunity to lower the gradient of your learning 
 
 <details><summary>Mandatory training</summary>
 
+
 ## Mandatory training
 You are invited to complete the courses below, which you can only enrol on once you are enrolled as an Imperial student. You are encouraged to complete them before teaching on the MSc Epidemiology commences in October.
 
