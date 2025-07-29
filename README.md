@@ -9,6 +9,31 @@ The term 1 modules will give you a solid foundation in epidemiology, statistics,
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 </details>
 
+College Term dates
+
+Autumn term:	27 September 2025 - 12 December 2025
+Spring term:	3 January 2026 - 20 March 2026
+Spring break:	16 Febuary 2026 - 22 February 2026
+Summer term:	25 April 2026 - 26 June 2026
+
+Examination dates
+
+Exam period 1:	5 - 9 January 2026
+Exam period 2:	20 April - 1 May April 2026
+Summer Project dates
+
+Start:	4 May 2026
+Background presentation:	(Provisional) Week of 1 June 2026
+Final presentation date:	(Provisional) Week of 14 Septmber 2026
+Closure dates
+
+Christmas/New year:	22 December 2025 - 2 January 2026 (College reopens on Monday 5 January 2026)
+Easter Holiday:	1 April 2026 - 7 April 2026 (College reopens on Wednesday 23 April 2026)
+Early May Bank Holiday:	4 May 2026
+Spring Bank Holiday:	25 May 2026
+Summer Bank Holiday:	31 August 2026
+Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
+
 <details><summary>Choosing how to spend your preparation time</summary>
 
 ## Choosing how to spend your preparation time
