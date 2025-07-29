@@ -9,36 +9,44 @@ The term 1 modules will give you a solid foundation in epidemiology, statistics,
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 </details>
 
-College Term dates
+# h2>College Term Dates</h2>
+<table border="1">
+  <tr><th>Term</th><th>Dates</th></tr>
+  <tr><td>Autumn Term</td><td>27 September 2025 - 12 December 2025</td></tr>
+  <tr><td>Spring Term</td><td>3 January 2026 - 20 March 2026</td></tr>
+  <tr><td>Spring Break</td><td>16 February 2026 - 22 February 2026</td></tr>
+  <tr><td>Summer Term</td><td>25 April 2026 - 26 June 2026</td></tr>
+</table>
 
-Autumn term:	27 September 2025 - 12 December 2025
-Spring term:	3 January 2026 - 20 March 2026
-Spring break:	16 Febuary 2026 - 22 February 2026
-Summer term:	25 April 2026 - 26 June 2026
+# <h2>Examination Dates</h2>
+<table border="1">
+  <tr><th>Exam Period</th><th>Dates</th></tr>
+  <tr><td>Exam Period 1</td><td>5 - 9 January 2026</td></tr>
+  <tr><td>Exam Period 2</td><td>20 April - 1 May 2026</td></tr>
+</table>
 
-Examination dates
+# <h2>Summer Project Dates</h2>
+<table border="1">
+  <tr><th>Milestone</th><th>Date</th></tr>
+  <tr><td>Start</td><td>4 May 2026</td></tr>
+  <tr><td>Background Presentation</td><td>(Provisional) Week of 1 June 2026</td></tr>
+  <tr><td>Final Presentation</td><td>(Provisional) Week of 14 September 2026</td></tr>
+</table>
 
-Exam period 1:	5 - 9 January 2026
-Exam period 2:	20 April - 1 May April 2026
-Summer Project dates
+# <h2>Closure Dates</h2>
+<table border="1">
+  <tr><th>Holiday</th><th>Dates</th></tr>
+  <tr><td>Christmas/New Year</td><td>22 December 2025 - 2 January 2026 (Reopens 5 January 2026)</td></tr>
+  <tr><td>Easter Holiday</td><td>1 April 2026 - 7 April 2026 (Reopens 23 April 2026)</td></tr>
+  <tr><td>Early May Bank Holiday</td><td>4 May 2026</td></tr>
+  <tr><td>Spring Bank Holiday</td><td>25 May 2026</td></tr>
+  <tr><td>Summer Bank Holiday</td><td>31 August 2026</td></tr>
+</table>
 
-Start:	4 May 2026
-Background presentation:	(Provisional) Week of 1 June 2026
-Final presentation date:	(Provisional) Week of 14 Septmber 2026
-Closure dates
-
-Christmas/New year:	22 December 2025 - 2 January 2026 (College reopens on Monday 5 January 2026)
-Easter Holiday:	1 April 2026 - 7 April 2026 (College reopens on Wednesday 23 April 2026)
-Early May Bank Holiday:	4 May 2026
-Spring Bank Holiday:	25 May 2026
-Summer Bank Holiday:	31 August 2026
-Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
-
-<details><summary>Mandary training time</summary>
 
 You are invited to complete the courses below, which you can only enrol on once you are enrolled as an Imperial student. You are encouraged to complete them before teaching on the MSc Epidemiology commences in October.
 
-Data Protection Awareness
+# Data Protection Awareness
 
 The conduct of most epidemiology and public health research requires collection, storage, and processing of personal data. As a controller for most of the personal data it processes, Imperial College London is committed to full compliance with the applicable data protection legislation, including the UK General Data Protection Regulation (GDPR) and the Data Protection Act 2018.
 
@@ -46,13 +54,13 @@ As you may handle personal and sensitive personal data through teaching and rese
 
 You can self-enrol on this course after you are enrolled as an Imperial student, and are encouraged to complete it before the course commences. Once you have enrolled with Imperial, you can access and complete the Data Protection Awareness course on Blackboard Learn. Instructions for course enrolment are outlined on Imperial Essentials
 
-Plagiarism Awareness
+# Plagiarism Awareness
 
 As an Imperial College London student, you will be required to use and share academic information ethically, with academic integrity and in accordance with [Imperial College’s Examination & Assessment: Academic Integrity Policy] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Examination-and-assessments—academic-integrity.pdf)
 
 To support compliance with this policy, you are required to complete a Plagiarism Awareness Course, developed by the Graduate School in conjunction with the Library. It aims to equip all Imperial postgraduate students with a working knowledge of the concept of plagiarism and how to avoid it. You should be auto-enrolled to this course; instructions for manual enrolment are also on the College website.
 
-Attributes and Aspirations (Recommended)
+# Attributes and Aspirations (Recommended)
 
 Attributes and Aspirations is an interactive, practical, flexible online short course designed to support you make decisions on your professional future. It was created based on research into the skills employers and PhD programmes look for, so you can be sure they are the skills that you really need. AA offers topics like teamworking, decision making, communication, as well as career planning and interview preparation skills. You can enrol and complete them when you need them on a timeline that works for you! Visit the Skills Map to explore what skills you can practice and where to find them.
 
