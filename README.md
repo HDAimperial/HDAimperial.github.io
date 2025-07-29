@@ -9,7 +9,7 @@ The term 1 modules will give you a solid foundation in epidemiology, statistics,
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 </details>
 
-# h2>College Term Dates</h2>
+# <h2>College Term Dates</h2>
 <table border="1">
   <tr><th>Term</th><th>Dates</th></tr>
   <tr><td>Autumn Term</td><td>27 September 2025 - 12 December 2025</td></tr>
@@ -42,7 +42,6 @@ With that said, you have the opportunity to lower the gradient of your learning 
   <tr><td>Spring Bank Holiday</td><td>25 May 2026</td></tr>
   <tr><td>Summer Bank Holiday</td><td>31 August 2026</td></tr>
 </table>
-
 
 You are invited to complete the courses below, which you can only enrol on once you are enrolled as an Imperial student. You are encouraged to complete them before teaching on the MSc Epidemiology commences in October.
 
