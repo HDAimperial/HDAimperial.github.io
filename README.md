@@ -219,8 +219,7 @@ There are two main repositories of R packages (sets of built-in R functions): th
 
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 
-
-
+<img width="738" height="444" alt="image" src="https://github.com/user-attachments/assets/4b0e4ec5-c0ab-412f-ab56-7a7f1f85d6ea" />
 </details>
 
 <details><summary>Reading list</summary>
