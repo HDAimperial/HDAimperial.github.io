@@ -219,7 +219,7 @@ There are two main repositories of R packages (sets of built-in R functions): th
 
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 
-![Health%20Data%20Analytics%20and%20Machine%20Learning%20pre-cou%203a9f671690494295ba5a4a913310e1ab/Untitled.png](Health%20Data%20Analytics%20and%20Machine%20Learning%20pre-cou%203a9f671690494295ba5a4a913310e1ab/Untitled.png)
+
 
 </details>
 
