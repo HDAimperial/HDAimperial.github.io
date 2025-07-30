@@ -264,7 +264,7 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 # Advice from previous HDA students
 
-We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
+We asked alumni on the HDA course what advice they would give their past selves before starting the course. Their responses are below.
 
 ## Before starting the course
 
